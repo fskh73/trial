@@ -1,0 +1,34 @@
+
+  {
+  "email": "Peonykswu@gmail.com",
+  "orderNumber": "3381751",
+  "createdDate": "2021-07-02T11:55:26Z",
+  "storeCode": "STORE_APAC",
+  "source": "EP",
+  "lineItems": [{
+    "lineItemSku": "TBRUXXXX2R46",
+    "quantity": 1,
+    "listingPrice": 345,
+    "purchasePrice": 345
+  }, {
+    "lineItemSku": "FPDRXX8X1R",
+    "quantity": 1,
+    "listingPrice": 400,
+    "purchasePrice": 400
+  }, {
+    "lineItemSku": "SMNCBTPXXS45",
+    "quantity": 1,
+    "listingPrice": 0,
+    "purchasePrice": 0
+  }, {
+    "lineItemSku": "SMECBTPXXS45",
+    "quantity": 1,
+    "listingPrice": 0,
+    "purchasePrice": 0
+  }, {
+    "lineItemSku": "EQAD52D13R",
+    "quantity": 1,
+    "listingPrice": 440,
+    "purchasePrice": 440
+  }]
+ }
